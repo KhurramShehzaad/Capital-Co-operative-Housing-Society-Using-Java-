@@ -1,0 +1,14 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\khurr\Desktop\Setup\Setup.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\khurr\Desktop\Setup\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_161
+Check launcher:	C:\Users\khurr\Desktop\Setup\bin\jre1.8.0_161\bin\javaw.exe (OK)
+Launcher:	C:\Users\khurr\Desktop\Setup\bin\jre1.8.0_161\bin\javaw.exe
+Launcher args:	-jar "C:\Users\khurr\Desktop\Setup\Setup.exe"
+Args length:	45/32768 chars
+Exit code:	0
